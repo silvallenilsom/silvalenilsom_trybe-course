@@ -23,14 +23,14 @@ Cada bloco estudado possui divisões internas que particionam o seu conteúdo em
 Adotarei o padrão de criar uma branch para cada bloco de conteúdo para gerenciar de forma otimizada a criação de branchs, centralizar os conteúdos e diminuir a quantidade de pastas ao navegar por entre os diferentes locais do repositório.
 
 Por exemplo, se fossemos criar uma branch como citado no caso acima seguir-se-ia o seguinte:
- - Fundamentos de Desenvolvimento Web `Pasta.`
-  - Introdução a html e css `Branch.`
-   - ...`Outras pastas dentro da Branch`
-   - html Semântico `Pasta dentro da Branch.`
-   - ... `Outras pastas dentro da Branch`
+ * Fundamentos de Desenvolvimento Web `Pasta.`
+   * Introdução a html e css `Branch.`
+   * ...`Outras pastas dentro da Branch`
+   * html Semântico `Pasta dentro da Branch.`
+   * ... `Outras pastas dentro da Branch`
 
 O padrão para o nome da branch será:
 ```json
-[numero-do-bloco]-[titulo-do-bloco]
+[ numero-do-bloco ]-[ titulo-do-bloco ]
 ```
 
