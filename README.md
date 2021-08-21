@@ -6,14 +6,14 @@ Bem vindo ao meu repositório de atividades, ao entrar no curso de desenvolvimen
 
 ## Criação de pastas.
 
-Todo o conteúdo é divido em quatro grandes áreas do conhecimento:
+Todo o conteúdo é dividido em quatro grandes áreas do conhecimento:
 
  - Fundamentos do Desenvolvimento Web;
- - Desenvolviemnto Front-end;
+ - Desenvolvimento Front-end;
  - Desenvolvimento Back-end;
  - Ciências da Computação.
 
-Além destes, que podemos chamar de hardskills, o curso ainda conta com o desenvolvimento de habilidades de auto-gerenciamento, intituladas de softskills, que praparam o futuro desenvolvedor para enfrentar diversos episódios da vida cotidiana com mais propriedade, são elas:
+Além destes, que podemos chamar de hardskills, o curso ainda conta com o desenvolvimento de habilidades de auto-gerenciamento, intituladas de softskills, que têem como objetivo preparar o futuro desenvolvedor para enfrentar diversos episódios da vida cotidiana com mais propriedade, são elas:
 
  - Inteligência Emocional;
  - Comunicação;
