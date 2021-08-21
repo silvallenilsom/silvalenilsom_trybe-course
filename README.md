@@ -1,17 +1,27 @@
 # Repositório de atividades.
 
-Bem vindo ao meu repositório de atividades, ao entrar no curso de desenvolvimento fullstack na Trybe(https://trybe.gupy.io/), aprendemos a importância de várias etapas no desenvolvimento de aplicações, o GitHub é parte essencial do versionamento de código e registro de nossas atividades. Deixo aqui um breve resumo e padrões que itulisarei, e que buscarei seguir a risca,  durante o processo de aprendizado.
+Bem vindo ao meu repositório de atividades, ao entrar no curso de desenvolvimento fullstack na Trybe(https://trybe.gupy.io/), aprendemos a importância de várias etapas no desenvolvimento de aplicações, o GitHub é parte essencial do versionamento de código e registro de nossas atividades. Deixo aqui um breve resumo e padrões que utilizarei, e que buscarei seguir a risca,  durante o processo de aprendizado.
 
 ---
 
 ## Criação de pastas.
 
 Todo o conteúdo é divido em quatro grandes áreas do conhecimento:
+
  - Fundamentos do Desenvolvimento Web;
  - Desenvolviemnto Front-end;
  - Desenvolvimento Back-end;
  - Ciências da Computação.
 
+Além destes, que podemos chamar de hardskills, o curso ainda conta com o desenvolvimento de habilidades de auto-gerenciamento, intituladas de softskills, que praparam o futuro desenvolvedor para enfrentar diversos episódios da vida cotidiana com mais propriedade, são elas:
+
+ - Inteligência Emocional;
+ - Comunicação;
+ - Colaboração;
+ - Pensamento Crítico;
+ - Criatividade;
+ - Liderança.
+ 
 Para uma melhor organização, cada área de estudo será salva em uma pasta com seu respectivo nome e deverá possuir um arquivo readme descrevendo o que se espera de determinada área, como estas possuem vários blocos com sub-divisões de conteúdo far-se-á necessária a divisão em sub-pastas com sua respectivas divisões.
 
 ---
@@ -38,4 +48,7 @@ Todas as branchs deverão ser criadas a partir da branch master do repositório.
 ---
 
 ## Para finalizar.
-Este é um readme em constante aperfeiçoamento, então pode sofrer alterações sem qualquer aviso prévio, obrigado por estar aqui, espero que este possa ter tirado quaisquer dúvidas sobre meu repositório.
+Este é um readme em constante aperfeiçoamento, então pode sofrer alterações sem qualquer aviso prévio, obrigado por estar aqui, espero que este possa ter elucidado quaisquer dúvidas sobre meu repositório.
+
+---
+
