@@ -12,7 +12,7 @@ Todo o conteúdo é divido em quatro grandes áreas do conhecimento:
  - Desenvolvimento Back-end;
  - Ciências da Computação.
 
-Para uma melhor organização, cada área de estudo será salva em uma pasta com seu respectivo nome e deverá possuir um arquivo readme descrevendo o que se espera de determinada área, como estas possuem vários blocos com sub-divisões de conteúdo far-se-á necessãria a divisão em sub-pastas com sua respectivas divisões.
+Para uma melhor organização, cada área de estudo será salva em uma pasta com seu respectivo nome e deverá possuir um arquivo readme descrevendo o que se espera de determinada área, como estas possuem vários blocos com sub-divisões de conteúdo far-se-á necessária a divisão em sub-pastas com sua respectivas divisões.
 
 ---
 
@@ -25,12 +25,17 @@ Adotarei o padrão de criar uma branch para cada bloco de conteúdo para gerenci
 Por exemplo, se fossemos criar uma branch como citado no caso acima seguir-se-ia o seguinte:
  * Fundamentos de Desenvolvimento Web `Pasta.`
    * Introdução a html e css `Branch.`
-   * ...`Outras pastas dentro da Branch`
-   * html Semântico `Pasta dentro da Branch.`
-   * ... `Outras pastas dentro da Branch`
+	   * ...`Outras pastas dentro da Branch`
+	   * html Semântico `Pasta dentro da Branch.`
+	   * ... `Outras pastas dentro da Branch`
 
 O padrão para o nome da branch será:
 ```json
 [ numero-do-bloco ]-[ titulo-do-bloco ]
 ```
+Todas as branchs deverão ser criadas a partir da branch master do repositório. Alguns dias podem não possuir atividades específicas a serem desenvolvidas diretamente em arquivo criado por mim, em alguns casos são links externos que não necessitam de um arquivo local, em tais situações tentarei resolver colocando um print do que for executado ou um arquivo apontando para um possível arquivo externo.
 
+---
+
+## Para finalizar.
+Este é um readme em constante aperfeiçoamento, então pode sofrer alterações sem qualquer aviso prévio, obrigado por estar aqui, espero que este possa ter tirado quaisquer dúvidas sobre meu repositório.
