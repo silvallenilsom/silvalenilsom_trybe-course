@@ -22,7 +22,7 @@ Além destes, que podemos chamar de hardskills, o curso ainda conta com o desenv
  - Criatividade;
  - Liderança.
  
-Para uma melhor organização, cada área de estudo será salva em uma pasta com seu respectivo nome e deverá possuir um arquivo readme descrevendo o que se espera de determinada área, como estas possuem vários blocos com sub-divisões de conteúdo far-se-á necessária a divisão em sub-pastas com sua respectivas divisões.
+Para uma melhor organização, cada área de estudo será salva em uma pasta com seu respectivo nome e deverá possuir um arquivo readme descrevendo o que se espera de determinada área, como estas possuem vários blocos com sub-divisões de conteúdo far-se-á necessária a divisão em sub-pastas com suas respectivas divisões.
 
 ---
 
