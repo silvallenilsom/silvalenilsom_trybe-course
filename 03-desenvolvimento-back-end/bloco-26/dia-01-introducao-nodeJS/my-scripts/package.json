@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "imc": "node imc.js",
     "sorteio": "node sorteio.js",
+    "start": "node index.js",
     "velocidade": "node velocidade.js"
   },
   "author": "silva lenilsom",
