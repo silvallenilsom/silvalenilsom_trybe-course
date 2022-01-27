@@ -1,3 +1,5 @@
+import csv
+
 # Exercício 1: Faça um programa que solicite o nome de uma pessoa usuária e
 # imprima-o na vertical.
 """ nome = input("Digite seu nome:\n")
@@ -27,7 +29,7 @@ print(f"A soma dos valores validos é {sum}") """
 # termino da manipulação ele deverá ser fechado e receberá o nome passado na
 # função open e salvo, caso não seja especificado, no local onde está sendo
 # executada a função.
-arquivo = open("texto-de-exemplo.txt", mode="w")
+""" arquivo = open("texto-de-exemplo.txt", mode="w")
 
 arquivo.write("MEUS PERSONAGENS FAVORITOS\n")
 arquivo.write("Deku\n")
@@ -42,4 +44,17 @@ arquivo.close()
 arquivo = open("texto-de-exemplo.txt")
 conteudo = arquivo.read()
 print(conteudo)
-arquivo.close()
+arquivo.close() """
+
+a, b = "cd"
+print(a)  # saída: c
+print(b)  # saída: d
+
+head, *tail = [
+    1,
+    2,
+    3,
+]  # Quando um * está presente no desempacotamento, os valores são
+# desempacotados em formato de lista.
+print(head)  # saída: 1
+print(tail)  # saída: [2, 3]
